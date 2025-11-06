@@ -223,5 +223,14 @@
         "student": "赵思涵",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1542645008590274689"
+    },
+    {
+        "id": "1548448929002561280",
+        "title": "面向对象程序设计",
+        "name": "面向对象程序设计",
+        "time": "2025-11-06 11:22:47",
+        "student": "陈曦",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1548448929002561280"
     }
 ]
