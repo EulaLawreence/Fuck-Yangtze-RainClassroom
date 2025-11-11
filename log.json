@@ -268,5 +268,14 @@
         "student": "陈曦",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1551923325658827776"
+    },
+    {
+        "id": "1551978201088918912",
+        "title": "数据库原理",
+        "name": "数据库原理",
+        "time": "2025-11-11 07:55:43",
+        "student": "陈曦",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1551978201088918912"
     }
 ]
