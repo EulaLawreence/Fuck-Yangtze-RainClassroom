@@ -358,5 +358,14 @@
         "student": "陈曦",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1556997007049610368"
+    },
+    {
+        "id": "1556997007049610368",
+        "title": "数据结构",
+        "name": "数据结构",
+        "time": "2025-11-18 07:24:17",
+        "student": "陈曦",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1556997007049610368"
     }
 ]
